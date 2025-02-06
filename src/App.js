@@ -55,7 +55,8 @@ const router = createBrowserRouter(
       <Route path="/signup" element={<SignUp />}></Route>
       <Route path="/signin" element={<SignIn />}></Route>
     </Route>
-  )
+  ),
+  { basename: '/ReactJs-EcomWeb' } 
 );
 
 function App() {

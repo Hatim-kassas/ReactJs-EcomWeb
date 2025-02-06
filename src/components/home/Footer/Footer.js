@@ -39,7 +39,7 @@ const Footer = () => {
             </p>
             <ul className="flex items-center gap-2">
               <a
-                // href=""
+                href="https://github.com/Hatim-kassas"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -48,7 +48,7 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                // href=""
+                href="https://github.com/Hatim-kassas"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -57,7 +57,7 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                // href=""
+                href="https://github.com/Hatim-kassas"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -66,7 +66,7 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                // href=""
+                href="https://github.com/Hatim-kassas"
                 target="_blank"
                 rel="noreferrer"
               >
