@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ReactJs-EcomWeb/static/css/main.7c18213a.css",
+    "main.js": "/ReactJs-EcomWeb/static/js/main.62ae954d.js",
+    "static/media/E-Commerce-Logo-Design-PNG.png": "/ReactJs-EcomWeb/static/media/E-Commerce-Logo-Design-PNG.8918dc99af998968b1bc.png",
+    "static/media/bannerImgTwo.webp": "/ReactJs-EcomWeb/static/media/bannerImgTwo.d93152138c5c9da3de58.webp",
+    "static/media/bannerImgThree.webp": "/ReactJs-EcomWeb/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
+    "static/media/saleImgTwo.webp": "/ReactJs-EcomWeb/static/media/saleImgTwo.ecb733524e878406c281.webp",
+    "static/media/bannerImgOne.webp": "/ReactJs-EcomWeb/static/media/bannerImgOne.cc70f00d1512cb1f97f6.webp",
+    "static/media/newArrThree.webp": "/ReactJs-EcomWeb/static/media/newArrThree.137dcefaee781098fd8a.webp",
+    "static/media/payment.png": "/ReactJs-EcomWeb/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/productOfTheYear.webp": "/ReactJs-EcomWeb/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
+    "static/media/saleImgOne.webp": "/ReactJs-EcomWeb/static/media/saleImgOne.5fd9a91421b8b3d52f04.webp",
+    "static/media/bestSellerThree.webp": "/ReactJs-EcomWeb/static/media/bestSellerThree.8caffcd1cd1c67b4a340.webp",
+    "static/media/saleImgThree.webp": "/ReactJs-EcomWeb/static/media/saleImgThree.7f55d28e41e547163b6c.webp",
+    "static/media/newArrFour.webp": "/ReactJs-EcomWeb/static/media/newArrFour.b8a5fda6839f2f0b1eaa.webp",
+    "static/media/bestSellerTwo.webp": "/ReactJs-EcomWeb/static/media/bestSellerTwo.c2641a76c189fcc71670.webp",
+    "static/media/bestSellerFour.webp": "/ReactJs-EcomWeb/static/media/bestSellerFour.0b34fdc5232f2dcf997b.webp",
+    "static/media/bestSellerOne.webp": "/ReactJs-EcomWeb/static/media/bestSellerOne.988208d74cc332fccc11.webp",
+    "static/media/emptyCart.png": "/ReactJs-EcomWeb/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/spfThree.webp": "/ReactJs-EcomWeb/static/media/spfThree.226da6ea085a91db0352.webp",
+    "static/media/spfOne.webp": "/ReactJs-EcomWeb/static/media/spfOne.af2c5aa8d8015ffcccf4.webp",
+    "static/media/spfTwo.webp": "/ReactJs-EcomWeb/static/media/spfTwo.3dd358b9c31a7587b4d9.webp",
+    "static/media/spfFour.webp": "/ReactJs-EcomWeb/static/media/spfFour.d005441cba54d7214bf7.webp",
+    "static/media/newArrTwo.webp": "/ReactJs-EcomWeb/static/media/newArrTwo.bdc7d9372116bdf40cc4.webp",
+    "static/media/newArrOne.webp": "/ReactJs-EcomWeb/static/media/newArrOne.5982a995e5c312914fe6.webp",
+    "index.html": "/ReactJs-EcomWeb/index.html",
+    "main.7c18213a.css.map": "/ReactJs-EcomWeb/static/css/main.7c18213a.css.map",
+    "main.62ae954d.js.map": "/ReactJs-EcomWeb/static/js/main.62ae954d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c18213a.css",
+    "static/js/main.62ae954d.js"
+  ]
+}
